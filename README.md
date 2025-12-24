@@ -1,4 +1,4 @@
-📊 Zepto Dataset Cleaning and Analysis Using MySQL
+📊 Zepto Dataset Cleaning and Analysis Using MySQL and MsExcel
 📌 Project Overview
 This project focuses on cleaning and analyzing a real-world Zepto product dataset using MySQL. The dataset contains multiple data quality issues such as NULL values, duplicate records, empty cells, inconsistent formats, and invalid entries, making it suitable for practicing real-life database problem-solving.
 The goal of this project is to clean the dataset, handle common MySQL data issues, and perform meaningful analysis to extract business insights related to pricing, discounts, and inventory.
@@ -42,7 +42,7 @@ Stock availability and inventory insights
 Comparison between MRP and discounted selling price
 
 🛠️ Tools & Technologies Used
-MySQL
+MySQL,MS-Excel
 SQL Queries
 SELECT, WHERE
 GROUP BY, HAVING
